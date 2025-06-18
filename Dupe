@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NewDupe/SpeedHubV2/refs/heads/main/c"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NewDupe/iy/refs/heads/main/hb"))()
