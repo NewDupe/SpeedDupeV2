@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NewDupe/iy/refs/heads/main/hb"))()
-loadstring(game:HttpGet("https://scriptguardian.onrender.com/scriptguardian/files/scripts/loaders/Duped"))()
+loadstring(game:HttpGet('https://traxpaste.onrender.com/raw/2qjzet'))()
